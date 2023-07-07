@@ -1,0 +1,19 @@
+262B40 back antes
+
+
+#990F02 rojo promine
+
+.breadcrumb-item: 873F38
+antes 66799e
+
+.breadcrumb-item + .breadcrumb-item:before 
+
+bg-soft: f5f8fb
+
+manifest.json
+site.webmanifest
+"sizes": "192x192", --> android-chrome-192x192 --> promine_favicon
+"sizes": "512x512", --> android-chrome-512x512 --> 
+
+index - uibottons - uimodals - uitypogr - sideb - base
+light.svg --> dump-truck.svg
