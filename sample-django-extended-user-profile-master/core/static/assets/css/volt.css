@@ -655,11 +655,14 @@ progress {
     padding-left: calc(var(--bs-gutter-x) / 2);
     margin-right: auto;
     margin-left: auto;
+    /* padding-top: 6rem; */
+    padding-bottom: 1.2rem;
 }
 
 @media (min-width: 576px) {
     .container, .container-sm {
         max-width: 540px;
+        padding: 0.46rem;
     }
 }
 
@@ -672,6 +675,7 @@ progress {
 @media (min-width: 992px) {
     .container, .container-sm, .container-md, .container-lg {
         max-width: 960px;
+        padding: 0.4rem;
     }
 }
 
@@ -13404,7 +13408,7 @@ progress {
 }
 
 .pb-9 {
-    padding-bottom: 11rem !important;
+    padding-bottom: 0.2rem !important;
 }
 
 .pb-10 {
@@ -19270,7 +19274,8 @@ progress {
     }
 
     .pb-lg-12 {
-        padding-bottom: 20rem !important;
+        /* padding-bottom: 20rem !important; */
+        padding-bottom: 0rem !important;
     }
 
     .pb-lg-sm {
@@ -32244,7 +32249,7 @@ label {
 
     .section-header {
         position: relative;
-        padding-top: 8rem;
+        padding-top: 8.1rem;
         padding-bottom: 8rem;
     }
 
@@ -32278,7 +32283,9 @@ label {
 
     .section-header {
         position: relative;
-        padding-top: 10rem;
+        /* padding-top: 9.4rem; */
+        padding-top: 7.1rem;
+        /* padding-top: 130px; */
         padding-bottom: 10rem;
     }
 

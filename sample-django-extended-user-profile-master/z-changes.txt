@@ -17,3 +17,38 @@ site.webmanifest
 
 index - uibottons - uimodals - uitypogr - sideb - base
 light.svg --> dump-truck.svg
+
+{
+  "name": "Bootstrap",
+  "short_name": "Bootstrap",
+  "icons": [
+    {
+	//"src": "/docs/4.3/assets/img/favicons/android-chrome-192x192.png",
+      "src": "/docs/4.3/assets/img/favicons/promine_favicon.png", AQUI
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+	// "src": "/docs/4.3/assets/img/favicons/android-chrome-512x512.png",
+      "src": "/docs/4.3/assets/img/favicons/promine_favicon.png", AQUI
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+
+
+site.webmanifest
+{
+    "name": "Themesberg",
+    "short_name": "Themesberg",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",AQUI
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",AQUI
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
